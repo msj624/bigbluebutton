@@ -28,7 +28,7 @@ package org.bigbluebutton.modules.videoconf.model
 		public var videoQuality:Number = 100;
 		
 		[Bindable]
-		public var resolutions:String = "320x240,640x480,1280x720";
+		public var resolutions:String = "320x240,640x480,1280x720,1920x1080";
 		
 		[Bindable]
 		public var autoStart:Boolean = false;
